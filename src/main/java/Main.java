@@ -8,7 +8,7 @@ public class Main {
             return null;
         });
         get("/people", (request, response) -> {
-            System.out.println("Yerp");
+            System.out.println("Cool Beans");
             response.type("application/json");
             return "{\n" +
                     "  \"people\": [\n" +
