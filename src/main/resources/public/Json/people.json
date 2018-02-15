@@ -1,0 +1,43 @@
+{
+  "people": [
+    {
+      "name": "Scott",
+      "city": "Minneapolis"
+    },
+    {
+      "name":"Koddie",
+      "city":"Huxley"
+    },
+
+    {
+      "name": "Joan",
+      "city": "Chicago"
+    },
+    {
+      "name": "Ted",
+      "city": "Chicago"
+    },
+    {
+      "name": "Manny",
+      "city": "Santa Ana"
+    },
+
+    {
+      "name": "Lori",
+      "city": "Miramar"
+    },
+    {
+      "name": "Kym",
+      "city": "Kailua-Kona"
+    },
+    {
+      "name": "Jake",
+      "city": "Saratoga Springs"
+    },
+    {
+      "name": "Zech",
+      "city": "Whitmore"
+    }
+
+  ]
+}
